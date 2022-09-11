@@ -1,0 +1,16 @@
+{
+  "board": [
+    {
+      "id": 1,
+      "title": "title1",
+      "content": "json-server",
+      "date": "2022-01-05"
+    },
+    {
+      "title": "title2",
+      "content": "contentcontentcontentcontent",
+      "date": "2022-09-11",
+      "id": 2
+    }
+  ]
+}
